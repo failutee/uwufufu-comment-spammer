@@ -9,7 +9,9 @@ A simple python script that allows you to spam comments on the uwufufu website. 
 
 ## Proxy Usage Examples
 ```
-http:127.0.0.1:8080, https:127.0.0.1:8080, http:127.0.0.1:8080:username:pass
+http:127.0.0.1:8080
+https:127.0.0.1:8080
+http:127.0.0.1:8080:username:pass
 ```
 
 ## Requirements
