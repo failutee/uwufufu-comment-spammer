@@ -1,5 +1,5 @@
 ## About
-A simple python script that allows you to spam comments on the uwufufu website. I'm so lazy that I didn't want to add checks so if you do something wrong, the script will fall out, have a nice one ;)
+A simple python script that allows you to spam comments on the uwufufu website. I'm so lazy that I didn't want to add checks so if you do something wrong, the script will crash, have a nice one ;)
 
 <hr>
 
